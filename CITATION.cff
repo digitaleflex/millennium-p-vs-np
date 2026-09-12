@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+title: "Millennium P vs NP Research Lab"
+type: software
+abstract: "Open research laboratory exploring P vs NP through theory, computation, formal reasoning and AI-assisted research."
+license: MIT
