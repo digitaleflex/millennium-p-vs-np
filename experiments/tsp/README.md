@@ -1,3 +1,3 @@
 # TSP Experiments
 
-TSP instances, algorithms, benchmarks and reproducible results.
+Experiments on exact and heuristic approaches to the Traveling Salesperson Problem, with explicit separation between optimization performance and complexity-theoretic claims. TSP instances, algorithms, benchmarks and reproducible results are catalogued here.

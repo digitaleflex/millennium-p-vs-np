@@ -1,6 +1,6 @@
 # Computational Experiments
 
-Experiments are evidence-generating instruments, not substitutes for proof.
+Experiments generate evidence and test specific claims; they do not substitute for universal mathematical proofs.
 
 Every experiment should record:
 - experiment ID;

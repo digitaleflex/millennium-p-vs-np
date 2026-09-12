@@ -1,3 +1,3 @@
 # NP-Complete Problems
 
-Catalog canonical NP-complete problems and their polynomial-time reductions.
+Canonical problems and polynomial-time reductions will be documented here, starting with SAT and the Cook-Levin theorem.
